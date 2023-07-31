@@ -1,0 +1,20 @@
+
+body{
+    margin: 0;
+}
+.parent {
+    background: linear-gradient(to right , red, green, yellow);
+    text-align: center;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent h1 {
+    color: white
+}
+
+.parent p {
+    color: white
+}
